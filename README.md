@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aalok Tejas
+- 👋 Hi, I’m Aalok Tejas [IIT KANPUR]
 - 👀 I’m interested in Software development 
 - 🌱 I’m currently learning Web development
 
